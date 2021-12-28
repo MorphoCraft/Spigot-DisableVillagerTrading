@@ -1,0 +1,8 @@
+name: DisableVillagerTrading
+version: '${project.version}'
+main: net.morphocraft.spigot.disablevillagertrading.DisableVillagerTrading
+prefix: DisableVillagerTrading
+load: STARTUP
+authors: [ MorphoCraft ]
+website: https://morphocraft.net/
+api-version: 1.14
